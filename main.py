@@ -1,6 +1,6 @@
 """
 author: Timothy Breitenfeldt
-version: Python 3.8.6
+version: Python 3.11.4
 description: Draws names based on a JSON file, and sends an email to the respective individual.
 """
 
